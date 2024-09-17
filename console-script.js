@@ -77,7 +77,7 @@ splited.forEach(course => {
     ics += `DTEND:${ICSFromMS(timeEnd)}\r\n`; //TODO end
 
     const weeks = course.ZCBH.lastIndexOf('1') - firstWeek + 1;
-    const until = startDate + weeks * 7 * day + day;
+    const until = startDate + weeks * 7 * day;
     ics += `RRULE:FREQ=WEEKLY;UNTIL=${ICSFromMS(until)}\r\n` //TODO repeat
     ics += 'END:VEVENT\r\n';
 })
