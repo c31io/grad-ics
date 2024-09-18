@@ -6,7 +6,7 @@
 
 ## 使用方法
 
-打开课表页，打开浏览器控制台（[点击查看开启控制台的教程](https://screenful.com/guide/how-to/how-to-open-the-browser-developer-console)），复制`console-scripte.js`中的脚本，粘贴到控制台中执行，将每行开头都是大写字母的输出文本保存为`xxx.ics`。
+打开课表页，打开浏览器控制台（[点击查看开启控制台的教程](https://screenful.com/guide/how-to/how-to-open-the-browser-developer-console)），复制[console-scripte.js](./console-scripte.js)中的脚本，粘贴到控制台中执行，将每行开头都是大写字母的输出文本保存为`xxx.ics`。
 
 点击文件直接导入，如果系统不支持，可将`xxx.ics`作为附件用邮件发给自己，收到后点击附件导入邮箱配套的日历软件。导入iOS日历建议使用系统自带邮箱。
 
