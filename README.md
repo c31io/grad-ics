@@ -10,7 +10,7 @@
 
 ### ICS
 
-打开课表页，打开浏览器控制台（[点击查看开启控制台的教程](https://screenful.com/guide/how-to/how-to-open-the-browser-developer-console)。 
+打开课表页，打开浏览器控制台（[点击查看开启控制台的教程](https://screenful.com/guide/how-to/how-to-open-the-browser-developer-console)）。
 
 - 复制[console-scripte.js](./console-script.js)中的脚本，粘贴到控制台中执行，将每行开头都是大写字母的输出文本保存为`xxx.ics`。
 
@@ -18,9 +18,9 @@
 
 ### WakeUp
 
-打开[课表页](https://graduate.shanghaitech.edu.cn/gsapp/sys/wdkbappshtech/*default/index.do)，打开浏览器控制台（[点击查看开启控制台的教程](https://screenful.com/guide/how-to/how-to-open-the-browser-developer-console)。 
+打开[课表页](https://graduate.shanghaitech.edu.cn/gsapp/sys/wdkbappshtech/*default/index.do)，打开浏览器控制台（[点击查看开启控制台的教程](https://screenful.com/guide/how-to/how-to-open-the-browser-developer-console)）。
 
-- 复制[wakeup_console.js](./console-script.js)中的脚本，粘贴到控制台中执行，将每行开头都是大写字母的输出文本保存为`xxx.wakeup_schedule`。
+- 复制[wakeup-console.js](./wakeup_console.js)中的脚本，粘贴到控制台中执行，将每行开头都是大写字母的输出文本保存为`xxx.wakeup_schedule`。
 
 点击文件直接导入，如果系统不支持，可将`xxx.wakeup_schedule`使用qq发送给手机，然后选择用 wakeup 课程表打开
 
