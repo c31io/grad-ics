@@ -23,7 +23,7 @@
 
 复制[wakeup.js](./wakeup.js)中的脚本，粘贴到控制台中执行，将每行开头都是大写字母的输出文本保存为`xxx.wakeup_schedule`。
 
-点击文件直接导入，如果系统不支持，可将`xxx.wakeup_schedule`使用QQ发送给手机，然后选择用 wakeup 课程表打开
+点击文件直接导入，如果系统不支持，可将`xxx.wakeup_schedule`使用QQ发送给手机，然后选择用 wakeup 课程表打开。
 
 ## 如果现在不是2024年第一学期
 
