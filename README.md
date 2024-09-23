@@ -10,9 +10,9 @@
 
 ### ICS
 
-打开课表页，打开浏览器控制台（[点击查看开启控制台的教程](https://screenful.com/guide/how-to/how-to-open-the-browser-developer-console)）。
+打开[课表页](https://graduate.shanghaitech.edu.cn/gsapp/sys/wdkbappshtech/*default/index.do)，打开浏览器控制台（[点击查看开启控制台的教程](https://screenful.com/guide/how-to/how-to-open-the-browser-developer-console)）。
 
-- 复制[console-scripte.js](./console-script.js)中的脚本，粘贴到控制台中执行，将每行开头都是大写字母的输出文本保存为`xxx.ics`。
+- 复制[ics.js](./ics.js)中的脚本，粘贴到控制台中执行，将每行开头都是大写字母的输出文本保存为`xxx.ics`。
 
 点击文件直接导入，如果系统不支持，可将`xxx.ics`作为附件用邮件发给自己，收到后点击附件导入邮箱配套的日历软件。导入iOS日历建议使用系统自带邮箱。
 
@@ -20,9 +20,9 @@
 
 打开[课表页](https://graduate.shanghaitech.edu.cn/gsapp/sys/wdkbappshtech/*default/index.do)，打开浏览器控制台（[点击查看开启控制台的教程](https://screenful.com/guide/how-to/how-to-open-the-browser-developer-console)）。
 
-- 复制[wakeup-console.js](./wakeup_console.js)中的脚本，粘贴到控制台中执行，将每行开头都是大写字母的输出文本保存为`xxx.wakeup_schedule`。
+- 复制[wakeup.js](./wakeup.js)中的脚本，粘贴到控制台中执行，将每行开头都是大写字母的输出文本保存为`xxx.wakeup_schedule`。
 
-点击文件直接导入，如果系统不支持，可将`xxx.wakeup_schedule`使用qq发送给手机，然后选择用 wakeup 课程表打开
+点击文件直接导入，如果系统不支持，可将`xxx.wakeup_schedule`使用QQ发送给手机，然后选择用 wakeup 课程表打开
 
 ## 如果现在不是2024年第一学期
 
