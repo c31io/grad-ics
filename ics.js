@@ -1,5 +1,5 @@
 const semester = '20242'; // 20\d\d[1,2,3]
-const dayOne = Date.parse('2024-09-16T00:00+08:00'); // Monday of the first weak
+const dayOne = Date.parse('2025-02-17T00:00+08:00'); // Monday of the first weak
 
 let form = new FormData();
 form.append('XNXQDM', semester);
